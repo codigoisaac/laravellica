@@ -1,0 +1,12 @@
+{
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 100,
+  "php-cs-fixer.config": ".php-cs-fixer.php",
+
+  "editor.defaultFormatter": "junstyle.php-cs-fixer",
+  "editor.tabSize": 4,
+
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  }
+}
