@@ -21,7 +21,7 @@
 
                     <div class="hidden md:block">
                         <div class="ml-10 flex items-baseline space-x-4">                        
-                            <x-nav-link href="/" :active="request()->is('/')">
+                            <x-nav-link href="/" :active="request()->is('/')" type="b">
                                 Home
                             </x-nav-link>
 
