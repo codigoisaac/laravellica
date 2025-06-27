@@ -4,7 +4,7 @@
   "php-cs-fixer.config": ".php-cs-fixer.php",
 
   "editor.defaultFormatter": "junstyle.php-cs-fixer",
-  "editor.tabSize": 4,
+  "editor.tabSize": 2,
 
   "[blade]": {
     "editor.defaultFormatter": "shufo.vscode-blade-formatter"
